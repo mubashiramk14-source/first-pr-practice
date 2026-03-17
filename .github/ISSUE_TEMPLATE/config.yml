@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 贡献指南（如何提 PR）
+    url: https://github.com/buyicoder/first-pr-practice/blob/main/CONTRIBUTING.md
+    about: 把自己的名字写进 Contributors.md 请通过 Pull Request，不要在本仓库开 Issue 留名。
